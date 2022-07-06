@@ -1,4 +1,4 @@
-David Effiong Effiong Mbok
+David Effiong Effiong Mbo
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
