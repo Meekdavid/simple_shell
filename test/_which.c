@@ -1,4 +1,4 @@
-David Effiong
+David Effion
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
